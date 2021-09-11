@@ -65,7 +65,7 @@ public class Hospital {
 		}
 		else
 		{
-			throw new HospitalException ("ERROR: Cama existente");
+			throw new HospitalException ("ERROR: Cama existente. No se puede crear la cama (EDICIÓN DE TEXTO PLANO PARA EL P1)");
 		}
 			
     }
