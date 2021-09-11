@@ -39,7 +39,7 @@ public class TCPClient {
             System.err.println("Host desconocido");
             System.exit(1);
         } catch (IOException e) {
-            System.err.println("Error de I/O en la conexion al host");
+            System.err.println("Error de I/O en la conexion al host. EDICIÓN TEXTO PLANO DENTRO DE CLIENT PARA EL P1");
             System.exit(1);
         }
 
